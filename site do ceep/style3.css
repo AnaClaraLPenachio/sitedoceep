@@ -147,7 +147,7 @@ footer{
         font-size: 1.6rem;
     }
 }
-@madia(max-width: 480px){
+@media(max-width: 480px){
     nav ul{
         flex-direction: column;
     }
